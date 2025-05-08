@@ -55,11 +55,11 @@ date = "March 2024"
 url = "https://example.com/cert-gcp"
 
 [[params.experience]]
-company = "Samsung Research Institute Bangalore (SRI-B)"
-role = "PRISM Research Intern"
+company = "random dolor ipsum solar"
+role = " Research Intern"
 period = "Jan 2025 – Present"
 logo = "/images/company/samsung.png"
-description = "Contributing to GenAI-based automation in R&D using LLMs and agentic frameworks."
+description = "eat. sleep. repeat ."
 responsibilities = [
     "Developed GenAI-Worklet Generator Agent to automate R&D worklet creation using past data.",
     "Built a web interface for structured worklet input/output within five-minute generation windows.",
