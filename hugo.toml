@@ -1,11 +1,11 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://www.vidhu.dev/"
 languageCode = 'en-us'
 title = 'Vidhu Sarwal'
 theme = 'hugo-noir'
 
 # URL handling
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 
 # Taxonomy configuration
 [taxonomies]
