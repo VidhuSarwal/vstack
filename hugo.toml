@@ -4,8 +4,8 @@ title = 'Vidhu Sarwal'
 theme = 'hugo-noir'
 
 # URL handling
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 
 # Taxonomy configuration
 [taxonomies]
